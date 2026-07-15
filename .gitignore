@@ -1,0 +1,11 @@
+.DS_Store
+~$*
+*.inspect.ndjson
+
+node_modules/
+tmp/
+
+# Generated previews and render scratch output
+**/*_render/
+**/*_qlpreview/
+outputs/qr_tool_comparison_previews/
