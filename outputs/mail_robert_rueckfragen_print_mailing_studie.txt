@@ -1,0 +1,78 @@
+Betreff: Rückfragen zur Studienlogik und Präsentation CMC Print-Mailing-Studie 2027
+
+Hallo Robert,
+
+ich arbeite mich gerade tiefer in die Präsentation und das Studiendesign ein, damit ich die Folien und die weiteren Inhalte sauber weiterentwickeln kann. Dabei sind bei mir ein paar Verständnisfragen entstanden, die aus meiner Sicht auch für die spätere Präsentation wichtig sind, weil sie Punkte betreffen, die für externe Leser eventuell noch nicht eindeutig sind.
+
+Vielleicht kannst Du mir sagen, ob Du die Punkte selbst kurz einordnen möchtest oder wer aus dem Team sie am besten beantworten kann.
+
+Mein aktuelles Verständnis der vier Testvarianten ist folgendes:
+
+Die Varianten sollen über zwei theoretische Modelle hergeleitet werden:
+
+1. ELM-Modell: zentrale/rationale Verarbeitung vs. periphere/emotionale Verarbeitung
+2. Kahneman: schnelle/intuitive Verarbeitung, also System 1, vs. vertiefende/bewusste Verarbeitung, also System 2
+
+Daraus würde sich aus meiner Sicht eine 2x2-Matrix ergeben, in der die vier Layoutvarianten unterschiedliche Kombinationen dieser beiden Dimensionen testen.
+
+Ich würde die Varianten aktuell so verstehen:
+
+- Visual Storytelling: stärker emotional/peripher, ggf. stärker involvierend über Bild und Geschichte
+- Snackable Kurzbrief: schnell erfassbar, System-1-nah, reduzierte Entscheidungshürde
+- Editorial-Brief: stärker rational/zentral, vertiefend, erklärend und vertrauensbildend
+- Bisherige BAU-/Standardvariante: strukturierte Angebotsaktivierung mit Johnson Box, Nutzenargumentation, CTA und P.S.; hier ist mir noch nicht ganz klar, welchem Quadranten diese Variante genau zugeordnet werden soll
+
+Ist diese Interpretation richtig? Oder sollen ELM und Kahneman eher als grobe theoretische Begründung dienen, ohne dass jede Variante eindeutig einem Quadranten zugeordnet wird?
+
+Dazu hätte ich noch folgende Rückfragen:
+
+1. Modelllogik / Matrix
+Sollen ELM und Kahneman als zwei Achsen derselben Matrix verstanden werden? Also ELM = rational/zentral vs. emotional/peripher und Kahneman = schnell erfassbar/System 1 vs. vertiefend/System 2?
+Falls ja: Welche Variante liegt final in welchem Quadranten?
+
+2. RFM-Gruppen und Randomisierung
+Ist das Studiendesign so gedacht, dass die Empfänger zunächst in RFM-Gruppen segmentiert werden und anschließend innerhalb jeder RFM-Gruppe zufällig zu je ca. 25 % auf die vier Testvarianten verteilt werden?
+
+3. Limbic Map
+Wie genau soll die Limbic Map in die Gestaltung einfließen? Liefern die Studienpartner selbst eine Limbic-Einordnung, und würden wir dafür eine Vorlage bereitstellen? Oder leiten wir diese aus CI, Website, Tonalität und Partner-Fragebogen ab?
+Und worin unterscheidet sich diese Information vom normalen Partnerbriefing?
+
+4. Pre-Test 1 und Pre-Test 2
+Sind Pre-Test 1 und Pre-Test 2 als zwei aufeinanderfolgende Schritte gemeint oder als alternative Testlogiken?
+Soll der Pre-Test einmalig in der Studienvorbereitung stattfinden, um die finalen Varianten zu bestimmen, oder wird pro Partner ein eigener Pre-Test durchgeführt?
+
+5. Eye-Tracking
+Wie ist das Eye-Tracking konkret gedacht: als Labor-/Online-Pre-Test mit ausgewählten Testpersonen oder als Bestandteil der späteren Feldphase?
+Gehört Eye-Tracking zu dem Schritt, in dem pro Variante eine Gewinnerversion bestimmt wird?
+
+6. Wording der bisherigen BAU-/Standardvariante
+Für die bisherige BAU-Variante sollen wir ja ein neutrales Wording finden, damit nicht sichtbar wird, dass diese Variante aktuell bereits genutzt wird. Hier sehen Cathleen und ich aktuell zwei mögliche Richtungen:
+
+"Variante D - Klassischer Werbebrief"
+Vorteil: Sehr verständlich, schnell einordenbar, nah an der bekannten Direct-Mail-Mechanik mit Johnson Box, Nutzenargumentation, CTA und P.S.
+Nachteil: Klingt etwas traditioneller und könnte subtil den Eindruck erzeugen, dass diese Variante der bekannte Referenzfall ist.
+
+"Variante D - Strukturierter Angebotsbrief"
+Vorteil: Neutraler, testlogischer und weniger historisch aufgeladen. Es wird nicht direkt erkennbar, dass es sich um eine bisherige Standardmechanik handelt.
+Nachteil: Etwas sperriger und weniger selbsterklärend als "klassischer Werbebrief".
+
+Welche Richtung würdest Du bevorzugen? Oder gibt es ein anderes Wording, das aus Deiner Sicht besser zur Präsentation passt?
+
+7. POSTWURFSPEZIAL-Modul und Abstimmung mit Christina Discher
+Soll der POSTWURFSPEZIAL-Test für 3-5 Partner als separates Neukundenmodul neben der Bestandskundenstudie dargestellt werden? Und sollen diese Ergebnisse getrennt von der Bestandskundenlogik ausgewertet werden, da Zielgruppe und Kaufhürde anders sind?
+
+Ist Christina Discher zu dem geplanten Soziodemografie- und POSTWURFSPEZIAL-Part bereits gebrieft? Falls ja, kann ich direkt mit ihr in die Abstimmung gehen. Falls nein: Welche Eckdaten soll ich ihr vorab mitgeben, insbesondere zu Partneranzahl, Zielhaushalten, gewünschter Analyse, Datenbasis und Timing?
+
+8. Primäre Erfolgskennzahl
+Was ist für die Studie die primäre Erfolgskennzahl: Conversion Rate, Umsatz, Warenkorbwert, QR-Scan, Gutschein-Einlösung oder eine Kombination daraus?
+
+9. Konstanz des Angebots
+Sollen die vier Varianten pro Partner dasselbe Angebot mit unterschiedlicher Aufbereitung testen, oder dürfen Angebot, Produktfokus oder Incentive je Variante variieren? Für einen sauberen Layout-/Ansprachetest würde ich davon ausgehen, dass Angebot und Incentive möglichst konstant bleiben.
+
+10. Hypothese je Variante
+Was ist die eigentliche Hypothese je Variante? Also nicht nur der Name der Variante, sondern: Was soll diese Variante besser machen als die anderen Varianten?
+
+Mir geht es vor allem darum, die Studienlogik vollständig zu verstehen und die Präsentation so zu schärfen, dass auch externe Entscheider die Testarchitektur sofort nachvollziehen können.
+
+Viele Grüße
+Maria

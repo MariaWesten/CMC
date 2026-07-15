@@ -1,0 +1,66 @@
+{
+  "partner": {
+    "partner_name": "TAIGA Naturkost",
+    "offer": "15 Prozent Rabattcode auf alle Produkte im Shop",
+    "offer_expire_date": "13.09.2026",
+    "qr_link": "https://taiga-store.de/discount/PM-GUTSCHEINE-CODE?utm_campaign=8a0c0b",
+    "offer_disclaimer": "*Einmalig einlösbar, nicht mit anderen Gutscheinen kombinierbar. 15% Gutschein gültig bis zum 13.09.2026. TAIGA Naturkost, Talstr. 227, 67434 Neustadt | USt-IdNr. DE317650065. | Hinweis zum Datenschutz: Der Verwendung Deiner Daten für Werbezwecke kannst Du selbstverständlich jederzeit postalisch oder per E-Mail an info@taiga.bio widersprechen."
+  },
+  "variant_a_classic": {
+    "a_front_headline": "15 Prozent für Deinen nächsten Einkauf bei TAIGA Naturkost",
+    "a_front_intro": "Hallo [Vorname],",
+    "a_front_body_copy": "wenn Du naturbelassene Lebensmittel mit echter Herkunft schätzt, findest Du bei TAIGA Naturkost sorgfältig ausgewählte Produkte aus ursprünglichen Regionen. Unsere Naturkost steht für Bio-Qualität, Rohkostqualität und bewussten Genuss ohne unnötige Zusätze.",
+    "a_front_offer_line": "Sichere Dir jetzt 15 Prozent Rabatt auf alle Produkte im TAIGA Shop.",
+    "a_front_cta": "QR-Code scannen, Gutschein automatisch einlösen und bewusst genießen.",
+    "a_back_headline": "Natürlichkeit, Qualität und Herkunft für Deinen Vorrat",
+    "a_back_body_copy": "Seit über 25 Jahren steht TAIGA Naturkost für ausgewählte Rohstoffe, echte Wildsammlung und hochwertige Bio-Produkte. Viele unserer Produkte stammen aus ursprünglichen Regionen und werden mit besonderem Blick auf Reinheit und Qualität ausgewählt.",
+    "a_back_trust_module": "Deine Vorteile: Bio-Qualität, Rohkostqualität, ohne Zusätze und versandkostenfrei ab 69 Euro in Deutschland.",
+    "a_back_cta": "Löse Deinen 15 Prozent Gutschein bis zum 13.09.2026 im TAIGA Shop ein."
+  },
+  "variant_b_storytelling": {
+    "b_front_headline": "Ein Stück ursprüngliche Natur für Deinen Alltag",
+    "b_front_story_intro": "Hallo [Vorname],",
+    "b_front_emotional_anchor": "Manchmal beginnt bewusster Genuss mit einem kleinen Moment: dem Duft von Naturkost, der Ruhe einer Tasse Tee oder dem guten Gefühl, etwas Sorgfältig Ausgewähltes zu Hause zu haben.",
+    "b_front_offer_line": "Mit Deinem persönlichen Gutschein erhältst Du 15 Prozent Rabatt auf alle Produkte im TAIGA Shop.",
+    "b_front_cta": "Scanne den QR-Code und entdecke Naturkost mit echter Herkunft.",
+    "b_back_headline": "Aus der Kraft ursprünglicher Regionen",
+    "b_back_story_problem": "Im Alltag bleibt oft wenig Zeit, sich bewusst mit guten Lebensmitteln zu versorgen.",
+    "b_back_story_solution": "TAIGA Naturkost bringt sorgfältig ausgewählte, naturbelassene Produkte in Deinen Vorrat: Bio-Qualität, Rohkostqualität und Zutaten ohne unnötige Zusätze.",
+    "b_back_story_result": "So wird aus Deinem nächsten Einkauf ein ruhiger Moment bewussten Genusses.",
+    "b_back_cta": "Jetzt 15 Prozent Gutschein bis zum 13.09.2026 einlösen."
+  },
+  "variant_c_snackable": {
+    "c_front_big_headline": "15 Prozent auf TAIGA Naturkost",
+    "c_front_short_copy": "Für Deinen nächsten bewussten Einkauf: Bio-Qualität, echte Wildsammlung und naturbelassene Produkte. Scanne den QR-Code und löse Deinen Gutschein direkt im Shop ein.",
+    "c_front_offer_badge_text": "15 Prozent Rabatt bis 13.09.2026",
+    "c_front_qr_cta": "QR-Code scannen und sparen",
+    "c_back_headline": "Warum TAIGA?",
+    "c_back_three_bullets": "- Beste Bio-Qualität\n- Rohkostqualität und ohne Zusätze\n- Versandkostenfrei ab 69 Euro in Deutschland",
+    "c_back_final_cta": "Jetzt Gutschein einlösen und TAIGA Naturkost entdecken."
+  },
+  "variant_d_editorial": {
+    "d_front_kicker": "Bewusster Genuss",
+    "d_front_editorial_headline": "Warum Herkunft bei Naturkost den Unterschied macht",
+    "d_front_intro": "Hallo [Vorname],",
+    "d_front_author_line": "Eine Empfehlung von TAIGA Naturkost",
+    "d_back_headline": "Naturkost mit Herkunft, Ruhe und Sorgfalt",
+    "d_back_section_1_heading": "Aus ursprünglichen Regionen",
+    "d_back_section_1_copy": "TAIGA Naturkost entstand aus der Begeisterung für die besondere Kraft der sibirischen Taiga. Bis heute prägt diese Herkunft den Anspruch an Auswahl, Qualität und Natürlichkeit.",
+    "d_back_section_2_heading": "Für bewusste Vorräte",
+    "d_back_section_2_copy": "Die Produkte stehen für sorgfältig ausgewählte Rohstoffe, beste Bio-Qualität, Rohkostqualität und Rezepturen ohne unnötige Zusätze.",
+    "d_back_fact_box": "Seit über 25 Jahren: naturbelassene Qualität, bewusster Genuss und ausgewählte Rohstoffe.",
+    "d_back_offer_block": "Für Deinen nächsten Einkauf erhältst Du 15 Prozent Rabatt auf alle Produkte im TAIGA Shop. Gültig bis 13.09.2026.",
+    "d_back_cta": "QR-Code scannen und Gutschein einlösen."
+  },
+  "review": {
+    "status": "grundsätzlich nutzbar",
+    "notes": [
+      "Angebot, Incentive und Gültigkeit bleiben in allen Varianten konstant.",
+      "Die Varianten sind kommunikativ unterscheidbar.",
+      "Der Pflichttext sollte als unveränderliches Pflichtfeld geführt werden.",
+      "Für echte Produktion fehlen konkrete Slotlängen je Layout.",
+      "Für Variante B braucht das Designteam eine Bildentscheidung.",
+      "Nach finaler InDesign-Slotliste müssen Feldnamen und Zeichenlimits angepasst werden."
+    ]
+  }
+}

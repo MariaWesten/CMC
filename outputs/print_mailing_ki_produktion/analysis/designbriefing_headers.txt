@@ -1,0 +1,47 @@
+01. ID
+02. Startzeit
+03. Fertigstellungszeit
+04. E-Mail
+05. Name
+06. Zeitpunkt der letzten Änderung
+07. Wie lautet der Name Ihres Unternehmens und welche Absenderadresse soll im Mailing verwendet werden?
+08. Auf welchem Weg können uns Ihre Brand-Guidelines bzw. Corporate-Design-Dokumente zur Verfügung gestellt werden?
+09. Wie lautet der Link zum Download Ihrer Brand-Guidelines?
+10. Gibt es ergänzende Informationen zu den visuellen Vorgaben, die für diese Kampagne berücksichtigt werden sollen?
+11. In welcher Anredeform kommunizieren Sie üblicherweise mit Ihren Kundinnen und Kunden?
+12. Welche zentrale Botschaft soll vermittelt werden? Welche Emotion soll dabei entstehen?
+13. Wen möchten Sie mit der Kampagne gezielt ansprechen?
+14. Gibt es Begriffe, Aussagen oder Werte, die unbedingt kommuniziert werden sollen?
+15. Wenn ja – welche konkreten Inhalte sollen hervorgehoben werden?
+16. Welche USPs (Unique Selling Points) sollen in der Kampagne besonders hervorgehoben werden?
+17. Gibt es kreative Einschränkungen oder inhaltliche Anforderungen, die berücksichtigt werden müssen?
+18. Wenn ja – worauf ist besonders zu achten?
+19. Gibt es parallel laufende Kampagnen (ab mind. 14 Tagen nach PAL-Termin) auf die im Print-Mailing Bezug genommen werden soll?
+20. Wenn ja – welche konkreten Inhalte oder Elemente sollen im Print-Mailing berücksichtigt werden?
+21. Gibt es konkrete Learnings oder Rückmeldungen aus bisherigen Print-Mailings, die bei der Gestaltung berücksichtigt werden sollten?
+22. Welcher Link soll per QR-Code im Print-Mailing hinterlegt werden?
+23. Wird der Gutschein-Code im Shop automatisch hinterlegt, wenn der QR-Code gescannt wird?
+24. Welche URL soll im Mailing zusätzlich als Text abgedruckt werden?
+25. Gibt es neben dem %-Gutschein ein weiteres Incentive, dass in der Kampagne beworben werden soll?
+26. Welche Formulierung soll als Sternchentext für die Gutscheinbedingungen im Mailing verwendet werden?
+27. Welche Anrede bevorzugen Sie im Print-Mailing gegenüber Ihren Kundinnen und Kunden?
+28. Gibt es bereits Informationen oder konkrete Vorstellungen zum Inhalt des Marketingtexts im Print-Mailing?
+29. Wie soll die Grußformel am Ende des Marketingtexts aufgebaut sein?
+30. Welche Grußformel soll verwendet werden?
+31. Welche Gestaltungsvariante soll für die VORDERSEITE des Print-Mailings verwendet werden?
+32. Variante 1: Großzügiger Bildbereich mit viel Raum für ein oder mehrere Bilder, ergänzt durch ein flexibles Inhaltsmodul
+33. Welche Gütesiegel oder Zertifizierungen liegen vor?
+34. Welche Informationen benötigen wir für die von Ihnen ausgewählten Inhalte im flexiblen Modul?
+35. Variante 2: Kompakter Bildbereich mit einem Bild, dafür Platz für zwei flexible Inhaltsmodule
+36. Welche Informationen benötigen wir für die von Ihnen ausgewählten Inhalte im flexiblen ersten Modul?
+37. Welche Informationen benötigen wir für die von Ihnen ausgewählten Inhalte im flexiblen zweiten Modul?
+38. Wie viele Inhaltsmodule wünschen Sie sich auf der RÜCKSEITE des Print-Mailings?
+39. Welchen Inhalt möchten Sie in dem gewählten Modulbereich auf der Rückseite platzieren?
+40. Bitte stellen Sie uns Materialien oder Informationen für das ausgewählte Modul zur Verfügung.
+41. Welche Inhalte möchten Sie in den gewählten zwei Modulbereichen auf der Rückseite platzieren?
+42. Bitte stellen Sie uns Materialien oder Informationen für das erste ausgewählte Modul zur Verfügung.
+43. Bitte stellen Sie uns Materialien oder Informationen für das zweite ausgewählte Modul zur Verfügung.
+44. Welche Inhalte möchten Sie in den gewählten drei Modulbereichen auf der Rückseite platzieren?
+45. Bitte stellen Sie uns Materialien oder Informationen für das erste ausgewählte Modul zur Verfügung.
+46. Bitte stellen Sie uns Materialien oder Informationen für das zweite ausgewählte Modul zur Verfügung.2
+47. Bitte stellen Sie uns Materialien oder Informationen für das dritte ausgewählte Modul zur Verfügung.
